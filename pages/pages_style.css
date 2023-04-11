@@ -1,0 +1,11 @@
+nav {
+    text-align: center;
+}
+
+nav p {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+}
