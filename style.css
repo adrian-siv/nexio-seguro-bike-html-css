@@ -28,3 +28,8 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.caixas-organograma a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
