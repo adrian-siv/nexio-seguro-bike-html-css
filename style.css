@@ -1,0 +1,20 @@
+.caixas-organograma {
+    font-size: 1.1em;
+    border: 5px solid rgb(62, 122, 212);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0.5em;
+    width: 20%;
+    text-align: center;
+    background-color: rgb(173, 216, 230);
+}
+
+.caixa-solucao, .caixa-equipe {
+    border-color: rgb(255, 69, 0);
+    background-color: rgb(255, 160, 122);
+}
+
+.caixa-home {
+    border-color: rgb(0, 128, 0);
+    background-color: rgb(144, 238, 144);
+}
