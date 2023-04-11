@@ -1,9 +1,14 @@
+.organograma {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .caixas-organograma {
     font-size: 1.1em;
     border: 5px solid rgb(62, 122, 212);
     border-radius: 10px;
-    margin: 10px;
-    padding: 0.5em;
+    margin: 1em 1em 3em;
+    padding: 1em;
     width: 20%;
     text-align: center;
     background-color: rgb(173, 216, 230);
@@ -17,4 +22,9 @@
 .caixa-home {
     border-color: rgb(0, 128, 0);
     background-color: rgb(144, 238, 144);
+}
+
+.secoes-organograma {
+    display: flex;
+    justify-content: space-evenly;
 }
